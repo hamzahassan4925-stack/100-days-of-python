@@ -1,0 +1,13 @@
+list = [20 ,34 ,53 ,54 ,74]
+list.append(33)
+print(list)
+list.sort()
+print(list)
+list.sort(reverse=True)
+print(list)
+list.reverse()
+print(list)
+list.insert(100,53)
+list1 = (1 , 2 ,3)
+list.remove(3)
+print(list)
